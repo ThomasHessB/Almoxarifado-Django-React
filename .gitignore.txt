@@ -1,0 +1,10 @@
+# Logs e cache
+*.log
+
+# Configurações do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos gerados pelo editor de texto
+.idea/
+.vscode/
