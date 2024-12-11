@@ -216,6 +216,3 @@ Este projeto é de uso livre. Você pode modificar e usar conforme sua necessida
 
 ---
 
-## 🖼️ Capturas de Tela (Adicione imagens aqui)
-
-Adicione imagens da interface e funcionalidades principais para destacar o sistema no portfólio.
